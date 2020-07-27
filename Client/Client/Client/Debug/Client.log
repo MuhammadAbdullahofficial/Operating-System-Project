@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\ABD\Universty\Semester 6\Operating System\Project\Client\Client\Source.cpp(51): warning C4172: returning address of local variable or temporary: ret
+  Client.vcxproj -> E:\ABD\Universty\Semester 6\Operating System\Project\Client\Debug\Client.exe
